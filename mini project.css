@@ -1,0 +1,68 @@
+body{background-image:url(https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2018/04/alphagamma-big-data-events-in-2018-you-dont-want-to-miss-entrepreneurship-opportunities-003-1.jpg);background-repeat: no-repeat;}
+
+.buttons{
+    list-style: none;padding-left: 0px;text-align: right;background-color: rgb(252, 161, 76);padding-top: 5px;padding-bottom: 5px;
+}
+.buttons li{
+display: inline-block;margin-left: 5px;margin-right: 5px;font-size: 26px;background-color: rgb(74, 124, 158);border-radius: 4px;
+}
+.buttons li a{
+    color: white;text-decoration: none;border-radius: 60px;
+
+}
+.buttons li a:hover{
+    color: rgb(253, 17, 0);border-bottom: 1px solid grey;transition: 1s;
+}
+.centertext{
+    text-align: center;color: whitesmoke;font-size: 55px;margin-top: 220px;font:sans-serif;
+    }
+
+.countdown{
+    text-align: center;font-size: 45px;background-color: darkgray;margin-top: 300px;
+}
+
+#demo{
+    text-align: center;font-size: 40px;background-color: coral;width: 1550px;border-radius:45px;margin-top: -1px;
+}
+.description{
+    text-align: center;margin-top: 30px;font-size: 45px;padding-top: 70px;color: coral;
+}
+.para{
+    text-align: center;margin-top: 300px;font-size: 25px;color:rgb(164, 207, 77) ;
+}
+.institutes{
+    text-align: center;font-size: 45px;margin-top: 30px; background-color: rgb(84, 93, 114);
+}
+*:focus {
+  outline: none;
+}
+
+
+#login-box {
+  position: relative;margin: 5% auto;width: 400px;height: 400px;border-radius: 2px;box-shadow: 0 2px 4px rgba(49, 193, 230, 0.4);
+  margin-top: 65px;background-color: rgb(212, 226, 222);
+}
+
+.left {
+  position: absolute;top: 0;left: 0;box-sizing: border-box;padding:40px;width: 300px;
+  height: 400px;margin-top: 40px;
+}
+
+h1 {
+  margin: 0 0 20px 0;font-weight: 300;
+  font-size: 28px;margin-top: -1px;
+}
+
+input[type="text"],input[type="password"] {display: block;box-sizing: border-box;margin-bottom: 20px;padding: 4px;
+  width: 220px;height: 32px;border: none;border-bottom: 1px solid #AAA;font-family: 'Roboto', sans-serif;font-weight: 400;font-size: 15px;transition: 0.2s ease;
+}
+
+input[type="date"]:focus,
+input[type="password"]:focus {border-bottom: 2px solid #16a085;color: #16a085;transition: 0.2s ease;
+}
+
+input[type="submit"] {margin-top: 28px;
+  width: 120px;height: 32px;background: #16a085;border: none;border-radius: 2px;
+  
+  font-family: 'Roboto', sans-serif;font-weight: 500; text-transform: uppercase;transition: 0.1s ease;cursor: pointer;
+}
